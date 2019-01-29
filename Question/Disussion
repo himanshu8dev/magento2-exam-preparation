@@ -1,0 +1,18 @@
+** Magento Areas
+  - adminhtml
+  - frontend
+  - base
+  - cron
+  - webapi_rest
+  - webapi_soap
+  
+** Necessary file to create module
+  - registration.php
+  - etc/module.xml
+  - composer.json
+  
+** Module Event Observer SortOrder
+  - they don't have any orders
+  
+** If two diffrent module called same url then what happend ?
+  
