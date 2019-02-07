@@ -42,7 +42,7 @@
    - then we go and give sequence of module.
    - it will worked on sequence depending.
    - after we applied sort order.
-   - It will worked on descdening  order of sort order.
+   - It will worked as sort order.
    - now we are try to replicate after,before,around function how they are calling.
    
 ### observer functionality
